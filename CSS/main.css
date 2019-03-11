@@ -1,7 +1,7 @@
 
 
 body{
-  font-family: 'Lato', sans-serif;
+  font-family: 'Lato', sans-serif!important;
   text-align: justify;
 	background-color:#e9ecef;
 	box-sizing: border-box;
@@ -482,7 +482,7 @@ ul li  a:hover {
 }
 .column div span {
 	
-	bottom: -10px;
+	bottom: -8px;
 	z-index: -1;
 	color: rgb(80, 6, 6);
 	font-size: 16px;

@@ -1,8 +1,12 @@
 
-  .imageContacto{
-   background-image: url('./../assets/images/vidaestudiante.jpeg');
+ body{
+  font-family: 'Lato', sans-serif !important;
+ }
+ .imageContacto{
+   background-image: url('./../assets/images/galeriab.jpg');
    background-repeat: no-repeat;
    background-size: cover;
+   background-position-y: -200px;
    height: 80vh;
    display: flex;
    flex-flow: row wrap;
@@ -12,7 +16,7 @@
 .opacity{
   
   text-align: center;
-  margin-top: 35vh;
+  margin-top: 25vh;
   width: 130vh;
   height: 44vh;
   background-color:#6c757d69;
@@ -57,6 +61,24 @@
   font-size: 1.6rem;
   
 }
+.imageContacto{
+  background-image: url('./../assets/images/galeriab.jpg');
+  
+  background-position-X: -200px;
+  background-position-Y:80PX; 
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center
+ 
+ }
+ .opacity{
+  
+  
+  height: 36vh;
+
 }
   
   

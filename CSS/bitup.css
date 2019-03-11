@@ -1,6 +1,7 @@
 
 
 body {
+  font-family: 'Lato', sans-serif!important;
   background-color:white;
   margin: 0;
   padding: 0;
@@ -26,7 +27,7 @@ body {
 }
 
 .cartel {
-  background-color: rgb(196, 190, 190);
+  background-color: black;
   width: 109px;
   height: 109px;
   padding: 10px 0px 5px 0px;
@@ -263,11 +264,15 @@ li span {
 
   width: 300px;
   height: 150px;
-  color: #fd9e67;
+  color: #7e2525;
+}
+.button:hover{
+  color: rgb(245, 159, 31);
 }
 .lineaFinal{
   width: 20vh;
   height: 10vh;
+  
   
 }
 
