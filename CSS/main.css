@@ -584,13 +584,19 @@ figure:hover+span {
 
 		
 }
+.logoSm{
+	width: 150PX;
+	
+	align-items: center;
+	margin-left: 28%;
+	
+}
 .footer{
 	display: flex;
    flex-flow: row wrap;
 	 justify-content: center;
 
-  
-   
+    
 }
 .textFooter{
 	padding-top: 8vh;

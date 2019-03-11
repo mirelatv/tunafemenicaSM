@@ -345,7 +345,7 @@ margin-top: -60px;
   right: 0;
 }
 .box-galery .img12 {
-  background-image: url("../assets/images/GALERIA3.jpg");
+  background-image: url("../assets/images/gal61.jpg");
   right: 0;
 }
 .box-galery .img13 {
@@ -384,16 +384,16 @@ margin-top: -60px;
 /*fingaleria2*/
 /*galeria3*/
 .box-galery .img19 {
-  background-image: url("../assets/images/galeria5.jpg");
+  background-image: url("../assets/images/gal40.jpg");
 }
 .box-galery .img20 {
   left: var(--zi);
-  background-image: url("../assets/images/galeria6.jpg");
+  background-image: url("../assets/images/gal60.jpg");
   left: 0;
   right: 0;
 }
 .box-galery .img21 {
-  background-image: url("../assets/images/GALERIA3.jpg");
+  background-image: url("../assets/images/gal63.jpg");
   right: 0;
 }
 .box-galery .img22 {
